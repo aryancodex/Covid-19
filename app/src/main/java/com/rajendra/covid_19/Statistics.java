@@ -1,4 +1,4 @@
-package com.rajendra.covid_19;
+package com.aryatechnologies.covid_connect;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -32,7 +32,5 @@ public class Statistics extends AppCompatActivity {
         });
     }
 
-    // Task Completed
-    // Thanks for watching
-    //See you in the next video.
+    
 }
