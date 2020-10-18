@@ -1,4 +1,4 @@
-package com.rajendra.covid_19;
+package com.aryatechnologies.covid_connect;
 
 import androidx.appcompat.app.AppCompatActivity;
 
