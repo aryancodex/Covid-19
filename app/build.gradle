@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "com.rajendra.covid_19"
+        applicationId "com.aryatechnologies.covid_connect"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
